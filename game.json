@@ -1,0 +1,10 @@
+{
+  "id": "open-trivia",
+  "name": "Open Trivia",
+  "category": "Quiz",
+  "description": "Real-time trivia. First to answer wins the points.",
+  "summary": "A continuous trivia game where players join and leave at any time. When a question appears, all players see it on their phones. The first person to tap the correct answer wins points for that round. Get it wrong, and you lose points!",
+  "thumbnail": "thumbnail.jpg",
+  "color": "#4a2a7a",
+  "openJoin": true
+}
